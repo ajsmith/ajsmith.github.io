@@ -7,34 +7,54 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ajsmith.github.io/</loc>
-  <lastmod>2016-07-30T16:17:00Z</lastmod>
+  <lastmod>2016-08-19T19:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://ajsmith.github.io/2016/</loc>
-  <lastmod>2016-07-30T16:16:00Z</lastmod>
+  <lastmod>2016-08-19T19:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://ajsmith.github.io/archive.html</loc>
-  <lastmod>2016-08-06T16:36:00Z</lastmod>
+  <lastmod>2016-08-19T19:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://ajsmith.github.io/categories/</loc>
-  <lastmod>2016-07-30T16:16:00Z</lastmod>
+  <lastmod>2016-08-19T19:58:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ajsmith.github.io/categories/cat_whatever/</loc>
-  <lastmod>2016-07-30T16:16:00Z</lastmod>
+  <loc>https://ajsmith.github.io/categories/first-post/</loc>
+  <lastmod>2016-08-06T16:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ajsmith.github.io/categories/hello-world/</loc>
+  <lastmod>2016-08-06T16:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ajsmith.github.io/categories/nikola/</loc>
+  <lastmod>2016-08-06T16:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ajsmith.github.io/categories/test/</loc>
+  <lastmod>2016-08-06T16:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://ajsmith.github.io/galleries/</loc>
-  <lastmod>2016-07-30T16:16:00Z</lastmod>
+  <lastmod>2016-08-19T19:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://ajsmith.github.io/listings/</loc>
-  <lastmod>2016-07-30T16:16:00Z</lastmod>
+  <lastmod>2016-08-19T19:58:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ajsmith.github.io/posts/hello-world/</loc>
-  <lastmod>2016-07-30T16:16:00Z</lastmod>
+  <loc>https://ajsmith.github.io/posts/importance-of-writing/</loc>
+  <lastmod>2016-08-06T16:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ajsmith.github.io/posts/init/</loc>
+  <lastmod>2016-08-19T19:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ajsmith.github.io/posts/void-main/</loc>
+  <lastmod>2016-08-19T19:55:00Z</lastmod>
  </url>
 </urlset>
