@@ -1,4 +1,0 @@
-Sitemap: https://ajsmith.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: ajsmith.github.io
